@@ -1,0 +1,252 @@
+2025-10-26 13:23:00 ===> Namespace(batch_size=8, cka_type='linear', data_root='E:/A_Study_Materials/Dataset/Fundus/', dataset='pmri', device='cuda:0', epochs=1, experiment='experiment', log_dir='./logs/', lr=0.001, model='unet', rounds=200, save_dir='./weights/', seed=0, test_step=1, train_ratio=0.6, weight_decay=0.0001)
+2025-10-26 13:23:01 ===> site1 train  dataset: 40
+2025-10-26 13:23:01 ===> site1 val  dataset: 10
+2025-10-26 13:23:01 ===> site1 test  dataset: 51
+2025-10-26 13:23:01 ===> site2 train  dataset: 79
+2025-10-26 13:23:01 ===> site2 val  dataset: 20
+2025-10-26 13:23:01 ===> site2 test  dataset: 60
+2025-10-26 13:23:01 ===> site3 train  dataset: 256
+2025-10-26 13:23:01 ===> site3 val  dataset: 64
+2025-10-26 13:23:01 ===> site3 test  dataset: 80
+2025-10-26 13:23:01 ===> site4 train  dataset: 256
+2025-10-26 13:23:01 ===> site4 val  dataset: 64
+2025-10-26 13:23:01 ===> site4 test  dataset: 80
+2025-10-26 13:23:01 ===> site1: model parameters 7.403475761413574 M
+2025-10-26 13:23:01 ===> site2: model parameters 7.403475761413574 M
+2025-10-26 13:23:01 ===> site3: model parameters 7.403475761413574 M
+2025-10-26 13:23:01 ===> site4: model parameters 7.403475761413574 M
+2025-10-26 13:23:01 ===> checkpoint will be saved at ./weights/experiment
+2025-10-26 13:23:01 ===> -------- Commnication Round:   0 --------
+2025-10-26 13:24:14 ===> Namespace(batch_size=8, cka_type='linear', data_root='E:/A_Study_Materials/Dataset/Fundus/', dataset='pmri', device='cuda:0', epochs=1, experiment='experiment', log_dir='./logs/', lr=0.001, model='unet', rounds=200, save_dir='./weights/', seed=0, test_step=1, train_ratio=0.6, weight_decay=0.0001)
+2025-10-26 13:24:14 ===> site1 train  dataset: 40
+2025-10-26 13:24:14 ===> site1 val  dataset: 10
+2025-10-26 13:24:14 ===> site1 test  dataset: 51
+2025-10-26 13:24:14 ===> site2 train  dataset: 79
+2025-10-26 13:24:14 ===> site2 val  dataset: 20
+2025-10-26 13:24:14 ===> site2 test  dataset: 60
+2025-10-26 13:24:14 ===> site3 train  dataset: 256
+2025-10-26 13:24:14 ===> site3 val  dataset: 64
+2025-10-26 13:24:14 ===> site3 test  dataset: 80
+2025-10-26 13:24:14 ===> site4 train  dataset: 256
+2025-10-26 13:24:14 ===> site4 val  dataset: 64
+2025-10-26 13:24:14 ===> site4 test  dataset: 80
+2025-10-26 13:24:14 ===> site1: model parameters 7.403475761413574 M
+2025-10-26 13:24:14 ===> site2: model parameters 7.403475761413574 M
+2025-10-26 13:24:14 ===> site3: model parameters 7.403475761413574 M
+2025-10-26 13:24:14 ===> site4: model parameters 7.403475761413574 M
+2025-10-26 13:24:14 ===> checkpoint will be saved at ./weights/experiment
+2025-10-26 13:24:14 ===> -------- Commnication Round:   0 --------
+2025-10-26 13:24:37 ===> Namespace(batch_size=8, cka_type='linear', data_root='E:/A_Study_Materials/Dataset/Fundus/', dataset='pmri', device='cuda:0', epochs=1, experiment='experiment', log_dir='./logs/', lr=0.001, model='unet', rounds=200, save_dir='./weights/', seed=0, test_step=1, train_ratio=0.6, weight_decay=0.0001)
+2025-10-26 13:24:37 ===> site1 train  dataset: 40
+2025-10-26 13:24:37 ===> site1 val  dataset: 10
+2025-10-26 13:24:37 ===> site1 test  dataset: 51
+2025-10-26 13:24:37 ===> site2 train  dataset: 79
+2025-10-26 13:24:37 ===> site2 val  dataset: 20
+2025-10-26 13:24:37 ===> site2 test  dataset: 60
+2025-10-26 13:24:37 ===> site3 train  dataset: 256
+2025-10-26 13:24:37 ===> site3 val  dataset: 64
+2025-10-26 13:24:37 ===> site3 test  dataset: 80
+2025-10-26 13:24:37 ===> site4 train  dataset: 256
+2025-10-26 13:24:37 ===> site4 val  dataset: 64
+2025-10-26 13:24:37 ===> site4 test  dataset: 80
+2025-10-26 13:24:37 ===> site1: model parameters 7.403475761413574 M
+2025-10-26 13:24:38 ===> site2: model parameters 7.403475761413574 M
+2025-10-26 13:24:38 ===> site3: model parameters 7.403475761413574 M
+2025-10-26 13:24:38 ===> site4: model parameters 7.403475761413574 M
+2025-10-26 13:24:38 ===> checkpoint will be saved at ./weights/experiment
+2025-10-26 13:24:38 ===> -------- Commnication Round:   0 --------
+2025-10-26 13:27:09 ===> Namespace(batch_size=8, cka_type='linear', data_root='E:/A_Study_Materials/Dataset/Fundus/', dataset='pmri', device='cuda:0', epochs=1, experiment='experiment', log_dir='./logs/', lr=0.001, model='unet', rounds=200, save_dir='./weights/', seed=0, test_step=1, train_ratio=0.6, weight_decay=0.0001)
+2025-10-26 13:27:09 ===> site1 train  dataset: 40
+2025-10-26 13:27:09 ===> site1 val  dataset: 10
+2025-10-26 13:27:09 ===> site1 test  dataset: 51
+2025-10-26 13:27:09 ===> site2 train  dataset: 79
+2025-10-26 13:27:09 ===> site2 val  dataset: 20
+2025-10-26 13:27:09 ===> site2 test  dataset: 60
+2025-10-26 13:27:09 ===> site3 train  dataset: 256
+2025-10-26 13:27:09 ===> site3 val  dataset: 64
+2025-10-26 13:27:09 ===> site3 test  dataset: 80
+2025-10-26 13:27:09 ===> site4 train  dataset: 256
+2025-10-26 13:27:09 ===> site4 val  dataset: 64
+2025-10-26 13:27:09 ===> site4 test  dataset: 80
+2025-10-26 13:27:09 ===> site1: model parameters 7.403475761413574 M
+2025-10-26 13:27:09 ===> site2: model parameters 7.403475761413574 M
+2025-10-26 13:27:09 ===> site3: model parameters 7.403475761413574 M
+2025-10-26 13:27:09 ===> site4: model parameters 7.403475761413574 M
+2025-10-26 13:27:09 ===> checkpoint will be saved at ./weights/experiment
+2025-10-26 13:27:09 ===> -------- Commnication Round:   0 --------
+2025-10-26 13:42:07 ===> Namespace(batch_size=8, cka_type='linear', data_root='E:/A_Study_Materials/Dataset/fundus-preprocessed/', dataset='pmri', device='cuda:0', epochs=1, experiment='experiment', log_dir='./logs/', lr=0.001, model='unet', rounds=200, save_dir='./weights/', seed=0, test_step=1, train_ratio=0.6, weight_decay=0.0001)
+2025-10-26 13:42:07 ===> site1 train  dataset: 0
+2025-10-26 13:42:07 ===> site1 val  dataset: 0
+2025-10-26 13:42:07 ===> site1 test  dataset: 0
+2025-10-26 13:42:24 ===> Namespace(batch_size=8, cka_type='linear', data_root='E:/A_Study_Materials/Dataset/fundus-preprocessed', dataset='pmri', device='cuda:0', epochs=1, experiment='experiment', log_dir='./logs/', lr=0.001, model='unet', rounds=200, save_dir='./weights/', seed=0, test_step=1, train_ratio=0.6, weight_decay=0.0001)
+2025-10-26 13:42:24 ===> site1 train  dataset: 0
+2025-10-26 13:42:24 ===> site1 val  dataset: 0
+2025-10-26 13:42:24 ===> site1 test  dataset: 0
+2025-10-26 13:46:11 ===> Namespace(batch_size=8, cka_type='linear', data_root='E:/A_Study_Materials/Dataset/fundus-preprocessed', dataset='rif', device='cuda:0', epochs=1, experiment='experiment', log_dir='./logs/', lr=0.001, model='unet', rounds=200, save_dir='./weights/', seed=0, test_step=1, train_ratio=0.6, weight_decay=0.0001)
+2025-10-26 13:46:11 ===> site1 train  dataset: 0
+2025-10-26 13:46:11 ===> site1 val  dataset: 0
+2025-10-26 13:46:11 ===> site1 test  dataset: 0
+2025-10-26 13:49:10 ===> Namespace(batch_size=8, cka_type='linear', data_root='E:/A_Study_Materials/Dataset/fundus-preprocessed', dataset='fundus', device='cuda:0', epochs=1, experiment='experiment', log_dir='./logs/', lr=0.001, model='unet', rounds=200, save_dir='./weights/', seed=0, test_step=1, train_ratio=0.6, weight_decay=0.0001)
+2025-10-26 13:49:10 ===> site1 train  dataset: 0
+2025-10-26 13:49:10 ===> site1 val  dataset: 0
+2025-10-26 13:49:10 ===> site1 test  dataset: 0
+2025-10-26 13:51:53 ===> Namespace(batch_size=8, cka_type='linear', data_root='E:/A_Study_Materials/Dataset/fundus-preprocessed/', dataset='fundus', device='cuda:0', epochs=1, experiment='experiment', log_dir='./logs/', lr=0.001, model='unet', rounds=200, save_dir='./weights/', seed=0, test_step=1, train_ratio=0.6, weight_decay=0.0001)
+2025-10-26 13:51:53 ===> site1 train  dataset: 0
+2025-10-26 13:51:53 ===> site1 val  dataset: 0
+2025-10-26 13:51:53 ===> site1 test  dataset: 0
+2025-10-26 13:56:33 ===> Namespace(batch_size=8, cka_type='linear', data_root='E:/A_Study_Materials/Dataset/Fundus', dataset='fundus', device='cuda:0', epochs=1, experiment='experiment', log_dir='./logs/', lr=0.001, model='unet', rounds=200, save_dir='./weights/', seed=0, test_step=1, train_ratio=0.6, weight_decay=0.0001)
+2025-10-26 13:56:33 ===> site1 train  dataset: 80
+2025-10-26 13:56:33 ===> site1 val  dataset: 20
+2025-10-26 13:56:33 ===> site1 test  dataset: 102
+2025-10-26 13:56:33 ===> site2 train  dataset: 158
+2025-10-26 13:56:33 ===> site2 val  dataset: 40
+2025-10-26 13:56:33 ===> site2 test  dataset: 120
+2025-10-26 13:56:33 ===> site3 train  dataset: 512
+2025-10-26 13:56:33 ===> site3 val  dataset: 128
+2025-10-26 13:56:33 ===> site3 test  dataset: 160
+2025-10-26 13:56:33 ===> site4 train  dataset: 512
+2025-10-26 13:56:33 ===> site4 val  dataset: 128
+2025-10-26 13:56:33 ===> site4 test  dataset: 160
+2025-10-26 13:56:33 ===> site1: model parameters 7.403444290161133 M
+2025-10-26 13:56:33 ===> site2: model parameters 7.403444290161133 M
+2025-10-26 13:56:33 ===> site3: model parameters 7.403444290161133 M
+2025-10-26 13:56:33 ===> site4: model parameters 7.403444290161133 M
+2025-10-26 13:56:33 ===> checkpoint will be saved at ./weights/experiment
+2025-10-26 13:56:33 ===> -------- Commnication Round:   0 --------
+2025-10-26 13:59:45 ===> Namespace(batch_size=8, cka_type='linear', data_root='E:/A_Study_Materials/Dataset/Fundus', dataset='fundus', device='cuda:0', epochs=1, experiment='experiment', log_dir='./logs/', lr=0.001, model='unet', rounds=200, save_dir='./weights/', seed=0, test_step=1, train_ratio=0.6, weight_decay=0.0001)
+2025-10-26 13:59:45 ===> site1 train  dataset: 80
+2025-10-26 13:59:45 ===> site1 val  dataset: 20
+2025-10-26 13:59:45 ===> site1 test  dataset: 102
+2025-10-26 13:59:45 ===> site2 train  dataset: 158
+2025-10-26 13:59:45 ===> site2 val  dataset: 40
+2025-10-26 13:59:45 ===> site2 test  dataset: 120
+2025-10-26 13:59:45 ===> site3 train  dataset: 512
+2025-10-26 13:59:45 ===> site3 val  dataset: 128
+2025-10-26 13:59:45 ===> site3 test  dataset: 160
+2025-10-26 13:59:45 ===> site4 train  dataset: 512
+2025-10-26 13:59:45 ===> site4 val  dataset: 128
+2025-10-26 13:59:45 ===> site4 test  dataset: 160
+2025-10-26 13:59:45 ===> site1: model parameters 7.403444290161133 M
+2025-10-26 13:59:45 ===> site2: model parameters 7.403444290161133 M
+2025-10-26 13:59:45 ===> site3: model parameters 7.403444290161133 M
+2025-10-26 13:59:45 ===> site4: model parameters 7.403444290161133 M
+2025-10-26 13:59:45 ===> checkpoint will be saved at ./weights/experiment
+2025-10-26 13:59:45 ===> -------- Commnication Round:   0 --------
+2025-10-26 14:01:09 ===> Namespace(batch_size=8, cka_type='linear', data_root='E:/A_Study_Materials/Dataset/fundus-preprocesed/fundus', dataset='fundus', device='cuda:0', epochs=1, experiment='experiment', log_dir='./logs/', lr=0.001, model='unet', rounds=200, save_dir='./weights/', seed=0, test_step=1, train_ratio=0.6, weight_decay=0.0001)
+2025-10-26 14:01:09 ===> site1 train  dataset: 40
+2025-10-26 14:01:09 ===> site1 val  dataset: 10
+2025-10-26 14:01:09 ===> site1 test  dataset: 51
+2025-10-26 14:01:09 ===> site2 train  dataset: 79
+2025-10-26 14:01:09 ===> site2 val  dataset: 20
+2025-10-26 14:01:09 ===> site2 test  dataset: 60
+2025-10-26 14:01:09 ===> site3 train  dataset: 256
+2025-10-26 14:01:09 ===> site3 val  dataset: 64
+2025-10-26 14:01:09 ===> site3 test  dataset: 80
+2025-10-26 14:01:09 ===> site4 train  dataset: 256
+2025-10-26 14:01:09 ===> site4 val  dataset: 64
+2025-10-26 14:01:09 ===> site4 test  dataset: 80
+2025-10-26 14:01:09 ===> site1: model parameters 7.403444290161133 M
+2025-10-26 14:01:09 ===> site2: model parameters 7.403444290161133 M
+2025-10-26 14:01:09 ===> site3: model parameters 7.403444290161133 M
+2025-10-26 14:01:09 ===> site4: model parameters 7.403444290161133 M
+2025-10-26 14:01:09 ===> checkpoint will be saved at ./weights/experiment
+2025-10-26 14:01:09 ===> -------- Commnication Round:   0 --------
+2025-10-26 14:01:10 ===> Client: [0]  Epoch: [0]  train_loss: 0.520435 train_acc: 0.582968
+2025-10-26 14:01:11 ===> Client: [1]  Epoch: [0]  train_loss: 0.494584 train_acc: 0.630654
+2025-10-26 14:01:15 ===> Client: [2]  Epoch: [0]  train_loss: 0.359537 train_acc: 0.811450
+2025-10-26 14:01:19 ===> Client: [3]  Epoch: [0]  train_loss: 0.409509 train_acc: 0.804384
+2025-10-26 14:02:50 ===> Namespace(batch_size=8, cka_type='linear', data_root='E:/A_Study_Materials/Dataset/fundus-preprocesed/fundus', dataset='fundus', device='cuda:0', epochs=1, experiment='experiment', log_dir='./logs/', lr=0.001, model='unet', rounds=200, save_dir='./weights/', seed=0, test_step=1, train_ratio=0.6, weight_decay=0.0001)
+2025-10-26 14:02:50 ===> site1 train  dataset: 40
+2025-10-26 14:02:50 ===> site1 val  dataset: 10
+2025-10-26 14:02:50 ===> site1 test  dataset: 51
+2025-10-26 14:02:50 ===> site2 train  dataset: 79
+2025-10-26 14:02:50 ===> site2 val  dataset: 20
+2025-10-26 14:02:50 ===> site2 test  dataset: 60
+2025-10-26 14:02:50 ===> site3 train  dataset: 256
+2025-10-26 14:02:50 ===> site3 val  dataset: 64
+2025-10-26 14:02:50 ===> site3 test  dataset: 80
+2025-10-26 14:02:50 ===> site4 train  dataset: 256
+2025-10-26 14:02:50 ===> site4 val  dataset: 64
+2025-10-26 14:02:50 ===> site4 test  dataset: 80
+2025-10-26 14:02:50 ===> site1: model parameters 7.403444290161133 M
+2025-10-26 14:02:51 ===> site2: model parameters 7.403444290161133 M
+2025-10-26 14:02:51 ===> site3: model parameters 7.403444290161133 M
+2025-10-26 14:02:51 ===> site4: model parameters 7.403444290161133 M
+2025-10-26 14:02:51 ===> checkpoint will be saved at ./weights/experiment
+2025-10-26 14:02:51 ===> -------- Commnication Round:   0 --------
+2025-10-26 14:02:51 ===> Client: [0]  Epoch: [0]  train_loss: 0.520434 train_acc: 0.582970
+2025-10-26 14:02:52 ===> Client: [1]  Epoch: [0]  train_loss: 0.494586 train_acc: 0.630632
+2025-10-26 14:02:56 ===> Client: [2]  Epoch: [0]  train_loss: 0.359573 train_acc: 0.811503
+2025-10-26 14:03:00 ===> Client: [3]  Epoch: [0]  train_loss: 0.410782 train_acc: 0.800932
+2025-10-26 14:03:01 ===> client: site1  test_loss:  0.543785   test_acc:  0.452841 
+2025-10-26 14:03:02 ===> client: site2  test_loss:  0.540666   test_acc:  0.473531 
+2025-10-26 14:03:03 ===> client: site3  test_loss:  0.537868   test_acc:  0.469364 
+2025-10-26 14:03:04 ===> client: site4  test_loss:  0.547147   test_acc:  0.481785 
+2025-10-26 14:03:04 ===> Round: [0]  avg_test_loss: 0.542366 avg_test_acc: 0.469380 std_test_acc: 0.010544
+2025-10-26 14:03:04 ===> -------- Commnication Round:   1 --------
+2025-10-26 14:03:05 ===> Client: [0]  Epoch: [0]  train_loss: 0.389597 train_acc: 0.701472
+2025-10-26 14:03:06 ===> Client: [1]  Epoch: [0]  train_loss: 0.413682 train_acc: 0.673071
+2025-10-26 14:03:10 ===> Client: [2]  Epoch: [0]  train_loss: 0.286501 train_acc: 0.841647
+2025-10-26 14:03:13 ===> Client: [3]  Epoch: [0]  train_loss: 0.336674 train_acc: 0.850095
+2025-10-26 14:03:15 ===> client: site1  test_loss:  0.519533   test_acc:  0.453466 
+2025-10-26 14:03:15 ===> client: site2  test_loss:  0.508458   test_acc:  0.474242 
+2025-10-26 14:03:16 ===> client: site3  test_loss:  0.503029   test_acc:  0.470128 
+2025-10-26 14:03:17 ===> client: site4  test_loss:  0.507031   test_acc:  0.482457 
+2025-10-26 14:03:17 ===> Round: [1]  avg_test_loss: 0.509513 avg_test_acc: 0.470074 std_test_acc: 0.010566
+2025-10-26 14:03:17 ===> -------- Commnication Round:   2 --------
+2025-10-26 14:03:17 ===> Client: [0]  Epoch: [0]  train_loss: 0.349604 train_acc: 0.711734
+2025-10-26 14:03:18 ===> Client: [1]  Epoch: [0]  train_loss: 0.362126 train_acc: 0.716806
+2025-10-26 14:03:22 ===> Client: [2]  Epoch: [0]  train_loss: 0.235846 train_acc: 0.863229
+2025-10-26 14:04:51 ===> Namespace(batch_size=8, cka_type='linear', data_root='E:/A_Study_Materials/Dataset/fundus-preprocesed/fundus', dataset='fundus', device='cuda:0', epochs=1, experiment='experiment', log_dir='./logs/', lr=0.001, model='unet', rounds=200, save_dir='./weights/', seed=0, test_step=1, train_ratio=0.6, weight_decay=0.0001)
+2025-10-26 14:04:51 ===> site1 train  dataset: 40
+2025-10-26 14:04:51 ===> site1 val  dataset: 10
+2025-10-26 14:04:51 ===> site1 test  dataset: 51
+2025-10-26 14:04:51 ===> site2 train  dataset: 79
+2025-10-26 14:04:51 ===> site2 val  dataset: 20
+2025-10-26 14:04:51 ===> site2 test  dataset: 60
+2025-10-26 14:04:51 ===> site3 train  dataset: 256
+2025-10-26 14:04:51 ===> site3 val  dataset: 64
+2025-10-26 14:04:51 ===> site3 test  dataset: 80
+2025-10-26 14:04:51 ===> site4 train  dataset: 256
+2025-10-26 14:04:51 ===> site4 val  dataset: 64
+2025-10-26 14:04:51 ===> site4 test  dataset: 80
+2025-10-26 14:04:51 ===> site1: model parameters 7.403444290161133 M
+2025-10-26 14:04:51 ===> site2: model parameters 7.403444290161133 M
+2025-10-26 14:04:51 ===> site3: model parameters 7.403444290161133 M
+2025-10-26 14:04:51 ===> site4: model parameters 7.403444290161133 M
+2025-10-26 14:04:51 ===> checkpoint will be saved at ./weights/experiment
+2025-10-26 14:04:51 ===> -------- Commnication Round:   0 --------
+2025-10-26 14:04:52 ===> Client: [0]  Epoch: [0]  train_loss: 0.520436 train_acc: 0.582963
+2025-10-26 14:04:53 ===> Client: [1]  Epoch: [0]  train_loss: 0.494587 train_acc: 0.630634
+2025-10-29 22:28:14 ===> Namespace(batch_size=8, cka_type='linear', data_root='E:/A_Study_Materials/Dataset/fundus-preprocesed/fundus', dataset='fundus', device='cuda:0', epochs=1, experiment='experiment', log_dir='./logs/', lr=0.001, model='unet', rounds=200, save_dir='./weights/', seed=0, test_step=1, train_ratio=0.6, weight_decay=0.0001)
+2025-10-29 22:28:14 ===> site1 train  dataset: 40
+2025-10-29 22:28:14 ===> site1 val  dataset: 10
+2025-10-29 22:28:14 ===> site1 test  dataset: 51
+2025-10-29 22:28:14 ===> site2 train  dataset: 79
+2025-10-29 22:28:14 ===> site2 val  dataset: 20
+2025-10-29 22:28:14 ===> site2 test  dataset: 60
+2025-10-29 22:28:14 ===> site3 train  dataset: 256
+2025-10-29 22:28:14 ===> site3 val  dataset: 64
+2025-10-29 22:28:14 ===> site3 test  dataset: 80
+2025-10-29 22:28:14 ===> site4 train  dataset: 256
+2025-10-29 22:28:14 ===> site4 val  dataset: 64
+2025-10-29 22:28:14 ===> site4 test  dataset: 80
+2025-10-29 22:28:14 ===> site1: model parameters 7.403444290161133 M
+2025-10-29 22:28:14 ===> site2: model parameters 7.403444290161133 M
+2025-10-29 22:28:14 ===> site3: model parameters 7.403444290161133 M
+2025-10-29 22:28:14 ===> site4: model parameters 7.403444290161133 M
+2025-10-29 22:28:14 ===> checkpoint will be saved at ./weights/experiment
+2025-10-29 22:28:14 ===> -------- Commnication Round:   0 --------
+2025-10-29 22:28:15 ===> Client: [0]  Epoch: [0]  train_loss: 0.520439 train_acc: 0.582959
+2025-10-29 22:28:17 ===> Client: [1]  Epoch: [0]  train_loss: 0.494587 train_acc: 0.630633
+2025-10-29 22:28:21 ===> Client: [2]  Epoch: [0]  train_loss: 0.359519 train_acc: 0.811451
+2025-10-29 22:28:26 ===> Client: [3]  Epoch: [0]  train_loss: 0.411351 train_acc: 0.799645
+2025-10-29 22:28:27 ===> client: site1  test_loss:  0.543721   test_acc:  0.452841 
+2025-10-29 22:28:28 ===> client: site2  test_loss:  0.540598   test_acc:  0.473531 
+2025-10-29 22:28:30 ===> client: site3  test_loss:  0.537812   test_acc:  0.469364 
+2025-10-29 22:28:31 ===> client: site4  test_loss:  0.547019   test_acc:  0.481785 
+2025-10-29 22:28:31 ===> Round: [0]  avg_test_loss: 0.542288 avg_test_acc: 0.469380 std_test_acc: 0.010544
+2025-10-29 22:28:31 ===> -------- Commnication Round:   1 --------
+2025-10-29 22:28:32 ===> Client: [0]  Epoch: [0]  train_loss: 0.400100 train_acc: 0.674703
+2025-10-29 22:28:33 ===> Client: [1]  Epoch: [0]  train_loss: 0.412611 train_acc: 0.676185
+2025-10-29 22:28:37 ===> Client: [2]  Epoch: [0]  train_loss: 0.288543 train_acc: 0.837811
